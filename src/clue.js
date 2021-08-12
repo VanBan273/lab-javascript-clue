@@ -9,16 +9,17 @@ const suspectsArray = [
   { firstName: 'Yara', lastName: 'Tamayo', occupation: 'lawyer',age: 22 ,description:"hace alguna cosilla", color:"yellow"},
   { firstName: 'Jesus', lastName: 'Olea', occupation: 'Entrepreneur',age: 21 ,description:"lo hace todo",color:"red"},
   { firstName: 'Andrea', lastName: 'Lopez', occupation: 'teacher',age :26 ,description:"no hace nada", color:"blue"},
-],
+  ]
 
 // Rooms Array
 
 const roomsArray = ["Living room", "Study","Dining room", "Conservatory", "Library", "Billiard room",
-"Lounge", "Ballroom", "Kitchen","Hall", "A spa", "Observatory", "Theater", "Guest house", "A patio"],
+"Lounge", "Ballroom", "Kitchen","Hall", "A spa", "Observatory", "Theater", "Guest house", "A patio"]
 
 // Weapons Array
 
-const weaponsArray = [ {name:"Rope",weight:2},
+const weaponsArray = [ 
+{name:"Rope",weight:2},
 {name:"Knife",weight:1},
 {name:"Candlestick",weight:3},
 {name:"Dumbbell",weight:4},
@@ -26,7 +27,9 @@ const weaponsArray = [ {name:"Rope",weight:2},
 {name:"Axe",weight:3},
 {name:"Bat",weight:2},
 {name:"Trophy",weight:3 },
-{name:"Pistol",weight:2;
+{name:"Pistol",weight:2}
+]
+
   
 
 // ITERATION 2
