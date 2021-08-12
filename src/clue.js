@@ -18,15 +18,15 @@ const roomsArray = ["Living room", "Study","Dining room", "Conservatory", "Libra
 
 // Weapons Array
 
-const weaponsArray = [ {name:"Rope",weight:"2 kg",hurtScale:5},
-{name:"Knife",weight:"1 kg",hurtScale:8},
-{name:"Candlestick",weight:"3 kg",hurtScale:6},
-{name:"Dumbbell",weight:"4 kg",hurtScale:8},
-{name:"Poison",weight:"0.5 kg",hurtScale:10},
-{name:"Axe",weight:"3 kg",hurtScale:9},
-{name:"Bat",weight:"2 kg",hurtScale:6},
-{name:"Trophy",weight:"3 kg",hurtScale:8},
-{name:"Pistol",weight:"2.5 kg",hurtScale:10}];
+const weaponsArray = [ {name:"Rope",weight:2},
+{name:"Knife",weight:1},
+{name:"Candlestick",weight:3},
+{name:"Dumbbell",weight:4},
+{name:"Poison",weight:0.5},
+{name:"Axe",weight:3},
+{name:"Bat",weight:2},
+{name:"Trophy",weight:3 },
+{name:"Pistol",weight:2;
   
 
 // ITERATION 2
